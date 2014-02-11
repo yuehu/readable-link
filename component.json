@@ -1,0 +1,16 @@
+{
+  "name": "readable-link",
+  "repo": "yuehu/readable-link",
+  "description": "Is this link ready for readable.",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {
+    "visionmedia/mocha": "*"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
